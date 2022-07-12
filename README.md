@@ -1,4 +1,4 @@
-# Code Quiz
+# [**Code-Quiz**](https:///) 🔗 TODO
 ## Module 4 Challenge
 
 ## Description
@@ -9,8 +9,6 @@ The user has a time limit in which to answer the questions. After that time limi
 This challenge will use Javascript and web APIs to store the high scores. 
 
 No starter code was provided for this challenge. I built the HTML, CSS and JS files needed. This project utilized my knowledge of event listeners, timers, intervals, query selectors, text content, and local storage.
-
-## Deployed Application: 
 
 
 ## Acceptance Criteria
