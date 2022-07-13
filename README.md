@@ -4,7 +4,7 @@
 ## Description
 The objective of this assignment is to build a timed interactive coding assessment that includes multiple-choice questions. The application will run in the browser. 
 
-The user has a time limit in which to answer the questions. After that time limit is reached, the application will end, and the user can enter their initials to add their score to the High Score board to track their progress. 
+The user has a time limit in which to answer the questions. After that time limit is reached, the application will end, and the user can enter their initials to add their score to the High Score board to track their progress. If the user chooses the wrong answer, 10 seconds are deducted from the time remaining.
 
 This challenge will use Javascript and web APIs to store the high scores. 
 
@@ -26,3 +26,5 @@ THEN the game is over
 WHEN the game is over
 THEN I can save my initials and my score
 ```
+[**Demo video**](https://drive.google.com/file/d/17jyf-U3qX_6RqE-cWIrCrm6rztsgcW4w/view) 🔗
+
