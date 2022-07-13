@@ -30,44 +30,54 @@
     // Define questions (Object)
     var questionSource = [
         {
-            question: "Questions 1 : String values must be enclosed within _____ when being assigned to variables.",
+            question: "Question 1: String values must be enclosed within _____ when being assigned to variables.",
             choices: ["a. commas", "b. curly brackets", "c. quotes", "d. parenthesis"],
             answer: "c"
         },
         {
-            question: "Questions 2 : Commonly used data types DO NOT include:",
+            question: "Question 2: Commonly used data types DO NOT include:",
             choices: ["a. strings", "b. booleans", "c. alerts", "d. numbers"],
             answer: "c"
         },
         {
-            question: "Questions 3 : How do you create a function in JavaScript",
+            question: "Question 3: How do you create a function in JavaScript",
             choices: ["a. function = myFunction()", "b. function myFunction()", "c. function:myFunction()", "d. createMyFunction()"],
             answer: "b"
         },
         {
-            question: "Questions 4 : How do you call a function named myFunction?",
+            question: "Question 4: How do you call a function named myFunction?",
             choices: ["a. call myFunction()", "b. call function myFunction()", "c. myFunction()", "d. call myFunction"],
             answer: "c"
         },
         {
-            question: "Questions 5 : To see if two variables are equal in an if / else statement you would use ____.",
+            question: "Question 5: To see if two variables are equal in an if / else statement you would use ____.",
             choices: ["a. =", "b. ==", "c. 'equals'", "d. !="],
             answer: "b"
         },
         {
-            question: "Questions 6 : The first index of an array is ____.",
+            question: "Question 6: The first index of an array is ____.",
             choices: ["a. 0", "b. 1", "c. 8", "d. any"],
             answer: "a"
         },
         {
-            question: "Questions 7 : How to write an IF statement in JavaScript?",
+            question: "Question 7: How to write an IF statement in JavaScript?",
             choices: ["a. if i == 5 then", "b. if i = 5 then", "c. if(i == 5)", "d. if i = 5"],
             answer: "c"
         },
         {
-            question: "Questions 8 : Which event occurs when the user clicks on an HTML element?",
+            question: "Question 8: The external JavaScript file must contain the <script> tag.",
+            choices: ["a. True", "b. False", "c. Maybe", "d. I don't know"],
+            answer: "b"
+        },
+        {
+            question: "Question 9: Which event occurs when the user clicks on an HTML element?",
             choices: ["a. onclick", "b. onchange", "c. onmouseover", "d. onmouseclick"],
             answer: "a"
+        },
+        {
+            question: "Question 10: What is the correct syntax for referring to an external script called 'xxx.js'?",
+            choices: ["a. <script name='./xxx.js'>", "b. <script href='./xxx.js'>", "c. <script scr='./xxx.js'>", "d. <script ='./xxx.js'>"],
+        answer: "c"
         }
     ];
 
