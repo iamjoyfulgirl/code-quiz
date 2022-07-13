@@ -1,7 +1,6 @@
-# [**Code-Quiz**](https:///) 🔗 TODO
-## Module 4 Challenge
-
-## Description
+# Module 4 - Code Quiz Challenge
+## Deployed app: [**Code Quiz**](https://) 🔗
+## Description:
 The objective of this assignment is to build a timed interactive coding assessment that includes multiple-choice questions. The application will run in the browser. 
 
 The user has a time limit in which to answer the questions. After that time limit is reached, the application will end, and the user can enter their initials to add their score to the High Score board to track their progress. If the user chooses the wrong answer, 10 seconds are deducted from the time remaining.
