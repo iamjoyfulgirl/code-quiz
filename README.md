@@ -1,5 +1,5 @@
 # Module 4 - Code Quiz Challenge
-## Deployed app: [**Code Quiz**](https://) 🔗
+## Deployed app: [**Code Quiz**](https://iamjoyfulgirl.github.io/code-quiz/) 🔗
 ## Description:
 The objective of this assignment is to build a timed interactive coding assessment that includes multiple-choice questions. The application will run in the browser. 
 
