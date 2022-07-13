@@ -26,6 +26,7 @@ THEN the game is over
 WHEN the game is over
 THEN I can save my initials and my score
 ```
-[**Demo video**](https://drive.google.com/file/d/17jyf-U3qX_6RqE-cWIrCrm6rztsgcW4w/view) 🔗
-<img width="1156" alt="code-quiz-screeenshot" src="https://user-images.githubusercontent.com/42161933/178836575-35cae750-4f2f-4b91-8371-482b0b469450.png">
+[**Demo video**](https://drive.google.com/file/d/1STsGsHnBL2OPA4VZAjbIxh9BRSYydhlB/view) 🔗
+
+<img width="1156" alt="code-quiz-screenshot" src="https://user-images.githubusercontent.com/42161933/178838565-8d483c34-f9ec-4f9e-a99e-ea131dc6acb7.png">
 
