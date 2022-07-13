@@ -45,19 +45,19 @@
             answer: "b"
         },
         {
-            question: "Question 4: How do you call a function named myFunction?",
-            choices: ["a. call myFunction()", "b. call function myFunction()", "c. myFunction()", "d. call myFunction"],
-            answer: "c"
-        },
-        {
-            question: "Question 5: To see if two variables are equal in an if / else statement you would use ____.",
+            question: "Question 4: To see if two variables are equal in an if / else statement you would use ____.",
             choices: ["a. =", "b. ==", "c. 'equals'", "d. !="],
             answer: "b"
         },
         {
+            question: "Question 5: How do you call a function named myFunction?",
+            choices: ["a. call myFunction()", "b. call function myFunction()", "c. myFunction()", "d. call myFunction"],
+            answer: "c"
+        },
+        {
             question: "Question 6: The first index of an array is ____.",
-            choices: ["a. 0", "b. 1", "c. 8", "d. any"],
-            answer: "a"
+            choices: ["a. 1", "b. 0", "c. 8", "d. any"],
+            answer: "b"
         },
         {
             question: "Question 7: How to write an IF statement in JavaScript?",
@@ -148,7 +148,7 @@
     
         } else {
             secondsLeft = secondsLeft - 10;
-            checkLine.textContent = "Wrong! The correct answer is " + questionSource[questionNumber].answer + " .";
+            checkLine.textContent = "Wrong! The correct answer is " + questionSource[questionNumber].answer + ".";
         }
         // THEN I am presented with another question
         if (questionNumber < questionSource.length - 1 ) {
@@ -166,7 +166,7 @@
             scoreBoard.style.display = "block";
             console.log(scoreBoard);
             // show final score
-            finalScore.textContent = "Your final score is :" + totalScore ;
+            finalScore.textContent = "Your final score is: " + totalScore;
             // clearInterval(timerInterval);  
             timeLeft.style.display = "none"; 
     };
@@ -270,7 +270,7 @@
     });
     
     // Clear local storage and clear page
-    clearBtn.addEventListener("click",function(event) {
+    clearBtn.addEventListener("click", function(event) {
         event.preventDefault();
         localStorage.clear();
         renderScore();
