@@ -29,3 +29,4 @@ THEN I can save my initials and my score
 
 <img width="1156" alt="code-quiz-screenshot" src="https://user-images.githubusercontent.com/42161933/178838565-8d483c34-f9ec-4f9e-a99e-ea131dc6acb7.png">
 
+<img width="738" alt="scoreboard-screenshot" src="https://user-images.githubusercontent.com/42161933/178842552-b632dc68-e637-434a-81ab-052f6f4ef36c.png">
